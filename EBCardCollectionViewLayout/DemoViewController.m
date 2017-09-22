@@ -39,8 +39,7 @@
     }
     
     //  The bigger the offset, the more you see on previous / next cards.
-    
-    
+	
     UIOffset anOffset = UIOffsetZero;
     if (_layoutType == EBCardCollectionLayoutHorizontal) {
         self.title = @"Horizontal Scrolling";
